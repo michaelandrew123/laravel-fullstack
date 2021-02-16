@@ -1,0 +1,31 @@
+composer create-project --prefer-dist laravel/laravel fullstack 
+
+
+php artisan make:controller TestController
+
+
+npm install 
+npm audit fix
+npm install vue
+npm run hot to install mix manifest
+
+npm install vue-router
+
+
+before installing vue we have to install the npm
+
+
+Pending learning in tutorial
+
+    eloquent
+
+    autoloader
+        object oriented programming 
+        mapping sa classes
+            
+    services
+
+    repository partern 
+    git 
+
+
